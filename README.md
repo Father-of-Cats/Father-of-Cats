@@ -4,7 +4,7 @@ I work as a Director at a small series of gyms in TX & OK but have been working 
 
 ## I'm Learning
 
-I am currently working on improving my React skills as I think it's a incredibly useful and fun library. 
+I am currently working on improving my React skills as I think it's a incredibly useful and fun library. I am about to finish a full-stack bootcamp through SMU and will be spending my summer improving my portfolio to better reflect my skill set and projects I am proud of.
 
 
 # Find Me Here
