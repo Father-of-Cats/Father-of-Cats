@@ -1,6 +1,7 @@
-# Hello there, I'm Hunter Nelson 🧗
+# Hello there, I'm Hunter Nelson🧗
+#### my pronouns are (He/Him)
 
-I work as a Director at a small series of gyms in TX & OK but have been working on building up my webdev skills since Summer of 2021. In my freetime I rock climb and build & play TTRPGs.
+I work as a Director at a small series of gyms in TX & OK but have been working on building up my webdev skills since Summer of 2021. I am currently looking for an entry level web developer position either remote or somewhere in Dallas . In my freetime I rock climb and build & play TTRPGs.
 
 ## I'm Learning
 
