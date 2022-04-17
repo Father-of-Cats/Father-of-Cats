@@ -1,7 +1,6 @@
 ### Hello there, I'm Hunter Nelson 🧗
 
 I work as a Director at a small series of gyms in TX & OK but have been working on building up my webdev skills since Summer of 2021. In my freetime I rock climb and build & play TTRPGs.
----
 
 ## I'm Learning
 
