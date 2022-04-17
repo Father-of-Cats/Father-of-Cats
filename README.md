@@ -9,7 +9,7 @@ I am currently working on improving my React skills as I think it's a incredibly
 
 
 # Find Me Here
-* ![image](https://user-images.githubusercontent.com/93629002/163698725-db9ed42c-333c-4ef6-b139-3aa330787c2e.png) [LinkedIn](https://www.linkedin.com/in/hunter-k-nelson/)
+* [LinkedIn](https://www.linkedin.com/in/hunter-k-nelson/)
 * [Instagram](https://www.instagram.com/the_fitness_hippie/)
 * [Email](mailto:huntknelson@gmail.com)
 
