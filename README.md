@@ -8,16 +8,16 @@ I am currently working on improving my React skills as I think it's a incredibly
 
 
 ## Find Me Here
-* [LinkedIn](https://www.linkedin.com/in/hunter-k-nelson/)
-* [Instagram](https://www.instagram.com/the_fitness_hippie/)
-* [Email](mailto:huntknelson@gmail.com)
+* 💻 [LinkedIn](https://www.linkedin.com/in/hunter-k-nelson/)
+* 📱 [Instagram](https://www.instagram.com/the_fitness_hippie/)
+* 📫 [Email](mailto:huntknelson@gmail.com)
 
 ## Vodcast
 
 If you want to learn about some nerdy indie games to play with your friends check out my podcast/vodcast The Weekly Scroll
-* [Spotify](https://open.spotify.com/show/3ImMl6cwPn6kgydbl5j3Jf?si=34844598dbf9461f)
-* [Youtube](https://youtu.be/UUpSnEFay5s)
-* [Twitch](https://www.twitch.tv/theadventurearchive)
+* 🎵 [Spotify](https://open.spotify.com/show/3ImMl6cwPn6kgydbl5j3Jf?si=34844598dbf9461f)
+* 📺 [Youtube](https://youtu.be/UUpSnEFay5s)
+* 🔥 [Twitch](https://www.twitch.tv/theadventurearchive)
 
 <!--
 **Father-of-Cats/Father-of-Cats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
